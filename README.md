@@ -31,7 +31,7 @@ O foco é **entender o funcionamento real do código**, não apenas decorar a si
 
 | Pasta | Nível de Dificuldade | Exercícios | Status |
 |-------|--------------------|------------|--------|
-| [01 - Conceitos Básicos](01-conceitos-basicos/) | ![Fácil](https://img.shields.io/badge/Dificuldade-Fácil-brightgreen) | 9 | 🟤 Em Andamento |
+| [01 - Conceitos Básicos](01-conceitos-basicos/) | ![Fácil](https://img.shields.io/badge/Dificuldade-Fácil-brightgreen) |10 | 🟤 Em Andamento |
 | [02 - Estruturas de Controle](02-estruturas-de-controle/) | ![Intermediário](https://img.shields.io/badge/Dificuldade-Intermediário-yellow) | 0 | 🔴 Não iniciado |
 | [03 - Funções](03-funcoes/) | ![Intermediário](https://img.shields.io/badge/Dificuldade-Intermediário-yellow) | 0 | 🔴 Não iniciado |
 | [04 - Arrays e Objetos](04-arrays-e-objetos/) | ![Avançado](https://img.shields.io/badge/Dificuldade-Avançado-orange) | 7 | 🟢 Concluído |
