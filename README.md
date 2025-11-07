@@ -7,7 +7,10 @@
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visual-studio-code)
 
 Este repositório reúne meus estudos e práticas de **JavaScript**, organizados por temas e níveis de complexidade.  
-Cada pasta contém exemplos práticos, pequenos projetos e exercícios que exploram desde os fundamentos da linguagem até conceitos avançados como **callbacks** e **assincronia**.
+Cada pasta contém exemplos práticos, pequenos projetos e exercícios que exploram desde os fundamentos da linguagem até tópicos avançados como **prototipagem**, **módulos**, **DOM** e **assincronia**.
+
+---
+
 
 
 ## 💡 Objetivo

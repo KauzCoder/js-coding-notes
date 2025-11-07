@@ -1,4 +1,12 @@
-// Operador Spread e Rest
+/*
+🌟 Operadores Spread e Rest em JavaScript
+-----------------------------------------
+
+Tanto o **Spread** quanto o **Rest** usam a mesma sintaxe (`...`), 
+mas o comportamento muda dependendo de **onde** eles são usados.
+
+*/
+
 console.log("\n=== Spread e Rest ===");
 // Spread → espalha elementos
 const numeros = [1, 2, 3];
